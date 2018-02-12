@@ -124,6 +124,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Tests\TestMain.cpp" />
+    <ClCompile Include="..\..\Tests\tests.ButtonDriver.cpp" />
     <ClCompile Include="..\..\Tests\tests.TemperatureMeasurement.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -19,9 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\Source\ButtonDriver.h" />
     <ClInclude Include="..\..\Source\TemperatureMeasurement.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Source\ButtonDriver.c" />
     <ClCompile Include="..\..\Source\TemperatureMeasurement.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

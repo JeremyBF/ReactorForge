@@ -18,9 +18,15 @@
     <ClInclude Include="..\..\Source\TemperatureMeasurement.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\ButtonDriver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\TemperatureMeasurement.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ButtonDriver.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
