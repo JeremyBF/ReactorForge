@@ -11,6 +11,8 @@ Thumbs.db
 *.sublime-workspace
 
 # Source files
-source/
 *.ai
 *.psd
+
+# Visual Studio Files
+**/Debug
